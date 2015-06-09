@@ -12,5 +12,8 @@ int main(int argc, char *argv[])
 
 	MyGlWindow myGlWindow;
 	myGlWindow.show();
+
+	MyGlWindow myGlWindow2;
+	myGlWindow2.show();
 	return a.exec();
 }
